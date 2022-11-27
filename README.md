@@ -2,14 +2,15 @@
 This project is for automated web testing for both login and logout
 and trial for automated mobile testing
 
-Files
+# Files
+
 Selenium project
-Including
+# Including
 Testing login successfully
 Testing logout 
-Operating system
+# Operating system
 Windows
-Driver
+# Driver
 Chrome Driver
-Chrome
+# Chrome
 Version 106.0.5249.119
